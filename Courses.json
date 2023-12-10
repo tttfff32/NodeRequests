@@ -1,10 +1,29 @@
 [
-    {
-        "Id":1,
-        "Discription":"English"
-    },
-    {
-        "Id":2,
-        "Discription":"Math"
-    }
+  {
+    "Id": "2",
+    "Name": "Moshe",
+    "Phone": "0556748168",
+    "Email": "m123@gmail.com",
+    "Job": "Team leader",
+    "Platoon": "2",
+    "DateBeginWork": "20/12/1999"
+  },
+  {
+    "Id": "3",
+    "Name": "tirza",
+    "Phone": "0556707982",
+    "Email": "tirza0556707982@gmail.com",
+    "Job": "tirza",
+    "Platoon": "3",
+    "DateBeginWork": "11/02/2010"
+  },
+  {
+    "Id": "1",
+    "Name": "tirza",
+    "Phone": "0556707982",
+    "Email": "tirza0556707982@gmail.com",
+    "Job": "Team Leader",
+    "Platoon": "3",
+    "DateBeginWork": "11/02/2010"
+  }
 ]

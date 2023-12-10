@@ -1,0 +1,29 @@
+[
+    {
+        "Id":1,
+        "Name":"Chaim",
+        "Phone":"0556707982",
+        "Email":"c123@gmail.com",
+        "Job":"Senior Manager",
+        "Platoon":"1" ,
+        "DateBeginWork":"11/02/2000"   
+    },
+    {
+        "Id":2,
+        "Name":"Moshe",
+        "Phone":"0556748168",
+        "Email":"m123@gmail.com",
+        "Job":"Team leader",
+        "Platoon":"2",
+        "DateBeginWork":"20/12/1999"  
+    },
+    {
+        "Id":3,
+        "Name":"Shimon",
+        "Phone":"0527683127",
+        "Email":"s123@gmail.com",
+        "Job":"Employee",
+        "Platoon":"3",
+        "DateBeginWork":"11/05/2020"  
+    }
+]
